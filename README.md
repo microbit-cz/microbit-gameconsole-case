@@ -1,4 +1,4 @@
-# MicroBit "Insight game" cover for MBT0008
+# MicroBit "Reaction game" cover for MBT0008
 
 něco tady bude + obrázek
 
