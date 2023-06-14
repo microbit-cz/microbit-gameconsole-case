@@ -1,0 +1,66 @@
+let game_end = true
+let game_started = false
+let cheat = ""
+
+pins.setPull(DigitalPin.P1, PinPullMode.PullNone);
+pins.setPull(DigitalPin.P2, PinPullMode.PullNone);
+
+basic.forever(function on_forever() {
+
+    if (!game_started && game_end) {
+        control.inBackground(function in_background() {
+            newGame()
+        })
+    }
+    
+    let is_pin1 = pins.digitalReadPin(DigitalPin.P1) == 0
+    let is_pin2 = pins.digitalReadPin(DigitalPin.P2) == 0
+    if (is_pin1 || is_pin2) {
+        if (!(game_started || game_end) && cheat == "") {
+            if (is_pin1 && is_pin2) {
+                cheat = "C"
+            } else if (is_pin1) {
+                cheat = "2"
+            } else {
+                cheat = "1"
+            }
+            
+        } else if (game_started) {
+            game_started = false
+            if (is_pin1 && is_pin2) {
+                showWinner("R")
+            } else if (is_pin1) {
+                showWinner("1")
+            } else {
+                showWinner("2")
+            }
+            
+        }
+        
+    }
+    
+})
+
+function showWinner(player: string) {
+    if (cheat != "") {
+        basic.showString(cheat)
+    } else {
+        basic.showString(player)
+    }
+    
+    soundExpression.giggle.playUntilDone()
+    basic.pause(3000)
+    game_end = true
+}
+
+function newGame() {
+    game_end = false
+    game_started = false
+    cheat = ""
+    basic.clearScreen()
+    basic.pause(randint(1000, 6000))
+    game_started = true
+    basic.showIcon(IconNames.StickFigure, 0)
+    music.playTone(988, 1500)
+}
+
