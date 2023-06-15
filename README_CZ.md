@@ -17,24 +17,22 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 - Oba hráči stiskli "tlačítko" jednou nebo vícekrát ještě před zahájením hry → potom display zobrazí "C"heater
   [Code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
   
-## Tips & Tricks
+## Tipy a Triky
+- [Vložení tepelné matice](https://markforged.com/resources/blog/heat-set-inserts)
+- [Krimpování kabelů](https://ratrig.dozuki.com/Guide/11.+Cable+Crimping/80)
+- [Pájení](https://www.makerspaces.com/how-to-solder/)
 
-- [Installing heat nuts](https://markforged.com/resources/blog/heat-set-inserts)
-- [Cable crimping](https://ratrig.dozuki.com/Guide/11.+Cable+Crimping/80)
-- [Soldering](https://www.makerspaces.com/how-to-solder/)
-
-## What do you need?
-
-- Microbit extension [MBT0008](https://www.dfrobot.com/product-1867.html)
-- 2 pieces of [Insert Nut M3](https://www.aliexpress.com/item/1005004701945081.html)
-- 2 pieces of [IR sensor](https://www.aliexpress.com/item/1297063929.html)
-- 1 piece of [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
-- 1 piece of [Vertical micro USB ](https://www.aliexpress.com/item/1005002650191316.html)
-- 1 piece of [Micro USB connector](https://www.aliexpress.com/item/32267930530.html)
-- ~150 grams of filament ABS
-- 1× 2-way cable
-- 2× 3-way crimped cables
-- 2× LEGO part 2780 [example](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
+## Co budeme potřebovat?
+- Micro:bit rozšíření [MBT0008](https://www.dfrobot.com/product-1867.html)
+- 2 kusy [Insert Nut M3](https://www.aliexpress.com/item/1005004701945081.html)
+- 2 kusy [IR sensor](https://www.aliexpress.com/item/1297063929.html)
+- 1 kusy [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
+- 1 kus [Vertical micro USB ](https://www.aliexpress.com/item/1005002650191316.html)
+- 1 kus [Micro USB connector](https://www.aliexpress.com/item/32267930530.html)
+- ~150 gramů filamentu ABS
+- 1× 2-žilný kabel
+- 2× 3-žilné krimpované kabely
+- 2× LEGO součástka 2780 [příklad](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
 
 ## Embedding parts
 ### Step 1:
