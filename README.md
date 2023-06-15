@@ -53,7 +53,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ### Step 4:
 - Connect IR sensor to 3-way crimped cable and put it through hole
-- Screw the M3 bolt to hold IR sensor into heat insert nut
+- Screw the M3 bolt to hold IR sensor into insert nut
 
    <img src="./images/IR_sensor.png" width="350" height="auto">
    <img src="./images/IR_sensor_installed.png" width="350" height="auto">
