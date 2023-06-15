@@ -58,8 +58,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/IR_sensor.png" width="350" height="auto">
    <img src="./images/IR_sensor_installed.png" width="350" height="auto">
  
-- Slide sensor lids into thin holes
-- Do it on both sides
+- Slide sensor lid into thin hole
+- Do "Step 4" on both sides
 
    <img src="./images/IR_sensor_closed.png" width="350" height="auto">
   
