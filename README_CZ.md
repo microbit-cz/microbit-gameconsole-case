@@ -1,13 +1,11 @@
- # Micro:bit pouzdro na "Postřehová hra" pro MBT0008
+ # Micro:bit pouzdro na "Postřehovou hru" pro MBT0008
 
 <p align="center">
    <img src="./images/Header.jpg" width="600" height="auto">
 </p>
 
 ## Postřehová hra
-### How does this game work?
-Popis chování hry
-
+### Jak tato hra funguje?
 Hra pro dva hráče. Herní engine po náhodně dlouhé době (3–10 s) od restartu hry zobrazí "ikonu" na ledkách a zároveň (bez prodlevy) spustí tón o délce 1,5 s. Tak je indikováno zahájení hry. Úkolem hráče je stisknout "tlačítko" dříve než soupeř. "Tlačítko" lze stisknout ihned po rozsvícení led diod, ještě v době, kdy zvuk tónu zní.
 Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek hry. Existuje 6 možných výsledků:
 ### Výsledky
