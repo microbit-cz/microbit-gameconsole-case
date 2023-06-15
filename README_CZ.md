@@ -91,4 +91,7 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 - Nahrajte kód do micro:bitu [kód zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) nebo [jako .txt zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
 - Můžete použít [Micro:bit MakeCode](https://makecode.microbit.org/) na snadné stažení kódu do micro:bitu
 
+## Autor
+[@Lukypop](https://github.com/Lukypop)
+
 
