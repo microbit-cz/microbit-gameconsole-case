@@ -1,7 +1,7 @@
  # MicroBit "Reaction game" cover for MBT0008
 
 <p align="center">
-   <img src="./images/Header.jpg" width="600" height="auto" justify-content="center">
+   <img src="./images/Header.jpg" width="600" height="auto">
 </p>
 
 ## Reaction game
@@ -42,7 +42,9 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 2:
 - insert heat nuts on each side
   
-<img src="">
+<p align="center">
+   <img src="" width="600" height="auto" justify-content="center">
+</p>
 
 ### Step 3:
 - insert lego parts to holes
