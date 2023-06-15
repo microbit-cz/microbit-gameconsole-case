@@ -46,7 +46,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ### Step 3:
 - Insert lego parts into the holes
-- Place Micro:bit MBT0008 on these parts
+- Place MBT0008 on these parts
   
    <img src="./images/LegoHoles.png" width="350" height="auto">
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
