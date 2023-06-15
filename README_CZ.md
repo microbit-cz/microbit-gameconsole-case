@@ -30,8 +30,8 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 - 1 kus [Vertikální micro USB ](https://www.aliexpress.com/item/1005002650191316.html)
 - 1 kus [Micro USB konektor](https://www.aliexpress.com/item/32267930530.html)
 - ~150 gramů filamentu ABS
-- 1× 2-žilný kabel
-- 2× 3-žilné krimpované kabely
+- 1× 2-žilný kabel (9 cm)
+- 2× 3-žilné krimpované kabely (10 cm)
 - 2× LEGO součástka 2780 [příklad](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
 
 ## Spojení součástek do sebe
