@@ -55,40 +55,39 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Connect IR sensor to 3-way crimped cable and put it through hole
 - Screw the M3 bolt to hold IR sensor into heat insert nut
 
-   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/IR_sensor.png" width="350" height="auto">
+   <img src="./images/IR_sensor_installed.png" width="350" height="auto">
  
 - Slide sensor lids into thin holes
 - Do it on both sides
 
-   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/IR_sensor_closed.png" width="350" height="auto">
   
 - Connect 3-way crimped cables to MBT0008 on pins: 1, 2 (see image)
 
-   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/Extension_wired.png" width="350" height="auto">
+   <img src="./images/IR_sensor_cables.png" width="350" height="auto">
 
 ### Step 5:
 - put battery holder cable through hole
 - connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
-  
-   <img src="./images/.png" width="350" height="auto">
+- place battery holder in storage place
+
+   <img src="./images/Battery_cables.png" width="350" height="auto">
    
-- place battery holder in storage place and close the lid
-
-   <img src="./images/.png" width="350" height="auto">
-
 ### Step 6:
 - Connect 2-way cable with vertical micro USB plug and micro USB connector using soldering
 - Be careful about + and - (see image if you are not sure)
 
-   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/Power_cable.png" width="350" height="auto">
 
 - Connect micro USB into MBT0008 and glue vertical micro USB plug into pre-made hole
 
-     <img src="./images/.png" width="350" height="auto">
+     <img src="./images/Power_cable_plug.png" width="350" height="auto">
      
 - Close both storage places with lids
 
-     <img src="./images/Header.jpg" width="350" height="auto">
+     <img src="./images/Everything_closed" width="350" height="auto">
 
 ### Step 7:
 - upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
