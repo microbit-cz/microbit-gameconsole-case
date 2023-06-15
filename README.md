@@ -77,7 +77,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    
 ### Step 6:
 - Connect 2-way cable with vertical micro USB plug and micro USB connector using soldering
-- Be careful about + and - (see image if you are not sure)
+- Be careful about + and - ([see image](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/images/micro_usb_wiring.png) if you are not sure)
 
    <img src="./images/Power_cable.png" width="350" height="auto">
 
