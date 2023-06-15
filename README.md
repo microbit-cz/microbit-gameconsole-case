@@ -33,15 +33,16 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - 2 pieces of [Bolts M3](https://www.bel-shop.eu/cylindric-head-screw-m3x8-10-pcs/)
 - x grams of filament ABS
 - 1× 2-way cable
-- 2× 3-way crimped cables 
+- 2× 3-way crimped cables
+- 2× LEGO part 2780 [example](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
 
 ## Embedding parts
 ### Step 1:
-
+- download and print [parts]() or [parts as STL]() using a 3d printer
 ### Step 2:
-
+- insert heat nuts on each side
 ### Step 3:
-
+- insert lego 
 ### Step 4:
 
 ### Step 5:
