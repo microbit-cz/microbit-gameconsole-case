@@ -1,6 +1,7 @@
 # MicroBit "Reaction game" cover for MBT0008
+<p align="center">
 <img src="./images/Header.jpg" width="450" height="auto" justify-content="center">
-
+</p>
 ## Reaction game
 This game is a small duel 
 
