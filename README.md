@@ -53,7 +53,9 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
 
 ### Step 4:
-- Connect  sensor to 3-way crimped cable and 
+- Connect IR sensor to 3-way crimped cable and put it through hole
+- Screw the M3 Bolt to hold IR sensor
+- 
 
 ### Step 5:
 
