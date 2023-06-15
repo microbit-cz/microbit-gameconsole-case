@@ -93,3 +93,6 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
 - You can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
 
+## Author
+@Lukypop
+
