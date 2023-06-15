@@ -32,8 +32,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - 1 piece of [Vertical micro USB ](https://www.aliexpress.com/item/1005002650191316.html)
 - 1 piece of [Micro USB connector](https://www.aliexpress.com/item/32267930530.html)
 - ~150 grams of filament ABS
-- 1× 2-way cable
-- 2× 3-way crimped cables
+- 1× 2-way cable (9 cm)
+- 2× 3-way crimped cables (10 cm)
 - 2× LEGO part 2780 [example](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
 
 ## Embedding parts
