@@ -45,8 +45,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/InsertNuts.png" width="350" height="auto">
 
 ### Step 3:
-- insert lego parts into the holes
-- place Microbit MBT0008 on these parts
+- Insert lego parts into the holes
+- Place Microbit MBT0008 on these parts
   
    <img src="./images/LegoHoles.png" width="350" height="auto">
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
@@ -69,9 +69,9 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/IR_sensor_cables.png" width="350" height="auto">
 
 ### Step 5:
-- put battery holder cable through hole
-- connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
-- place battery holder in storage place
+- Put battery holder cable through hole
+- Connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
+- Place battery holder in storage place
 
    <img src="./images/Battery_cables.png" width="350" height="auto">
    
@@ -90,6 +90,6 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
      <img src="./images/Everything_closed.png" width="350" height="auto">
      
 ### Step 7:
-- upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
-- you can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
+- Upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
+- You can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
 
