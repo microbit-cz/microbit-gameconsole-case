@@ -42,7 +42,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 2:
 - insert heat nuts on each side
 ### Step 3:
-- insert lego 
+- insert lego parts to holes
+- place Microbit MBT0008 on these parts
 ### Step 4:
 
 ### Step 5:
