@@ -10,10 +10,10 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Results
 - Player 1 was faster => then the display shows "1"
 - Faster was player 2 => then display shows "2"
-- They both pressed the "button" at the same moment (within the computer's reaction time) => then the display shows "R" => Draw
-- Player 1 pressed the "button" one or more times before the game started => then the display shows "B"	
-- Player 2 has pressed the "button" one or more times before the game starts => then the display shows "A"
-- Both players have pressed the "button" one or more times before the game starts => then the display shows "C" => Cheater
+- They both pressed the "button" at the same moment (within the computer's reaction time) → then the display shows "R" → Draw
+- Player 1 pressed the "button" one or more times before the game started → then the display shows "B"	
+- Player 2 has pressed the "button" one or more times before the game starts → then the display shows "A"
+- Both players have pressed the "button" one or more times before the game starts → then the display shows "C" → Cheater
   
 ## Tips & Tricks
 
@@ -34,34 +34,34 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - 
 
 ## Embedding parts
-### Step 1
+### Step 1:
 
-### Step 2
+### Step 2:
 
-### Step 3
+### Step 3:
 
-### Step 4
+### Step 4:
 
-### Step 5
+### Step 5:
 
-### Step 6
+### Step 6:
 
-### Step 7
+### Step 7:
 
-### Step 8
+### Step 8:
 
-### Step 9
+### Step 9:
 
-### Step 10
+### Step 10:
 
-### Step 11
+### Step 11:
 
-### Step 12
+### Step 12:
 
-### Step 13
+### Step 13:
 
-### Step 14
+### Step 14:
 
-### Step 15
+### Step 15:
 
  
