@@ -1,4 +1,4 @@
- # MicroBit "Reaction game" cover for MBT0008
+ # Micro:bit "Reaction game" cover for MBT0008
 
 <p align="center">
    <img src="./images/Header.jpg" width="600" height="auto">
