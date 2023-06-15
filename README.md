@@ -7,17 +7,14 @@
 ## Reaction game
 ### How does this game work?
 A game for two players. The game engine displays an "icon" on the LEDs after a randomly long time (3-10 s) after the game restarts, and at the same time (without delay) starts a tone of 1.5 s. This indicates the start of the game. The player's task is to press the "button" before the opponent. The "button" can be pressed immediately after the LEDs are lit, while the tone is still sounding.
+### Results
 - Player 1 was faster => then the display shows "1"
-	
 - Faster was player 2 => then display shows "2"
-	
-- They both pressed the "button" at the same moment (within the computer's reaction time) => then the display shows "R"-emission
-	
-- Player 1 pressed the "button" one or more times before the game started => then the display shows "B"
-	
+- They both pressed the "button" at the same moment (within the computer's reaction time) => then the display shows "R" => Draw
+- Player 1 pressed the "button" one or more times before the game started => then the display shows "B"	
 - Player 2 has pressed the "button" one or more times before the game starts => then the display shows "A"
-	
-- Both players have pressed the "button" one or more times before the game starts => then the display shows "C "heater
+- Both players have pressed the "button" one or more times before the game starts => then the display shows "C" => Cheater
+  
 ## Tips & Tricks
 
 - [Installing heat nuts](https://markforged.com/resources/blog/heat-set-inserts)
