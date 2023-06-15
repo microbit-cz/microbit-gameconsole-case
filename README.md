@@ -31,7 +31,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - 1 piece of [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
 - 1 piece of [Vertical USB ](https://www.aliexpress.com/item/1005002650191316.html)
 - 2 pieces of [Bolts M3](https://www.bel-shop.eu/cylindric-head-screw-m3x8-10-pcs/)
-- x grams of filament ABS
+- ~150 grams of filament ABS
 - 1× 2-way cable
 - 2× 3-way crimped cables
 - 2× LEGO part 2780 [example](https://www.amazon.co.uk/Technic-Friction-Ridges-Lengthwise-Center/dp/B01N6WURXK/)
