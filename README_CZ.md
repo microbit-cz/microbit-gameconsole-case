@@ -75,7 +75,7 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
    
 ### Krok 6:
 - Propojte dvoužilný kabel s vertikálním plugem micro USB a konektorem micro USB pomocí pájení
-- Buďte opatrní na + a - (viz obrázek pokud si nejste jist)
+- Buďte opatrní na + a - ([viz obrázek](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/images/micro_usb_wiring.png) pokud si nejste jist)
 
    <img src="./images/Power_cable.png" width="350" height="auto">
 
