@@ -61,34 +61,34 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 
    <img src="./images/IR_sensor_closed.png" width="350" height="auto">
   
-- Připojte krimpovaný 3-žilný kabel do MBT0008 na piny: 1, 2 (see image)
+- Připojte krimpovaný 3-žilný kabel do MBT0008 na piny: 1, 2 (viz obrázek)
 
    <img src="./images/Extension_wired.png" width="350" height="auto">
    <img src="./images/IR_sensor_cables.png" width="350" height="auto">
 
 ### Krok 5:
-- put battery holder cable through hole
-- connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
-- place battery holder in storage place
+- Protáhněte kabel od pouzdra na baterie dírou v hlavním díle
+- Zapojte jej do MBT0008 (do [JST-PH plug](./images/JST_plug.jpg))
+- Vložte pouzdro na baterie do zadní části, ve které je na to připravemé místo 
 
    <img src="./images/Battery_cables.png" width="350" height="auto">
    
 ### Krok 6:
-- Connect 2-way cable with vertical micro USB plug and micro USB connector using soldering
-- Be careful about + and - (see image if you are not sure)
+- Propojte dvoužilný kabel s vertikálním plugem micro USB a konektorem micro USB pomocí pájení
+- Buďte opatrní na + a - (viz obrázek pokud si nejste jist)
 
    <img src="./images/Power_cable.png" width="350" height="auto">
 
-- Connect micro USB into MBT0008 and glue vertical micro USB plug into pre-made hole
+- Připojte micro USB do MBT0008 a přilepte vertikální micro USB plug do před-dělané díry
 
      <img src="./images/Power_cable_plug.png" width="350" height="auto">
      
-- Close both storage places with lids
+- Zavřete všechny prostory pomocí víček
 
      <img src="./images/Everything_closed.png" width="350" height="auto">
      
 ### Krok 7:
-- upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
-- you can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
+- Nahrajte kód do micro:bitu [kód zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) nebo [jako .txt zde](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
+- Můžete použít [Micro:bit MakeCode](https://makecode.microbit.org/) na snadné stažení kódu do micro:bitu
 
 
