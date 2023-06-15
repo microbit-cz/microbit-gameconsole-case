@@ -40,7 +40,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 1:
 - download and print [parts](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts) or [parts as STL](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts/STL) using a 3d printer
 ### Step 2:
-- insert heat nuts on each side
+- insert heat nuts on both sides
   
    <img src="./images/InsertNuts.png" width="350" height="auto">
 
@@ -53,6 +53,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
 
 ### Step 4:
+- Connect  sensor to 3-way crimped cable and 
 
 ### Step 5:
 
