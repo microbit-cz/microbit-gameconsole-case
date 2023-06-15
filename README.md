@@ -16,8 +16,25 @@ něco tady bude + obrázek
 - 2 pieces of [IR senzor](https://www.aliexpress.com/item/1297063929.html)
 - 1 piece of [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
 - 1 piece of [Vertical USB ](https://www.aliexpress.com/item/1005002650191316.html)
-- 
+- 2 pieces of [Bolts M3](https://www.bel-shop.eu/cylindric-head-screw-m3x8-10-pcs/)
 
 ## Embedding parts
 ### Step 1
+### Step 2
+### Step 3
+### Step 4
+### Step 5
+### Step 6
+### Step 7
+### Step 8
+### Step 9
+### Step 10
+### Step 11
+### Step 12
+### Step 13
+### Step 14
+### Step 15
+
+
+
  
