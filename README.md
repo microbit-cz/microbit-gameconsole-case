@@ -42,7 +42,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 2:
 - insert heat nuts on each side
   
-   <img src="" width="auto" height="auto">
+   <img src="./images/InsertNuts.png" width="350" height="auto">
 
 ### Step 3:
 - insert lego parts into the holes
