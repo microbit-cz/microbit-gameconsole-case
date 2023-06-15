@@ -54,12 +54,16 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 4:
 - Connect IR sensor to 3-way crimped cable and put it through hole
 - Screw the M3 bolt to hold IR sensor into heat insert nut
-- Slide sensor lids into thin holes
-- Do it on both sides
-- Connect 3-way crimped cables to MBT0008 on pins: 1, 2 (see image)
 
    <img src="./images/.png" width="350" height="auto">
+ 
+- Slide sensor lids into thin holes
+- Do it on both sides
+
    <img src="./images/.png" width="350" height="auto">
+  
+- Connect 3-way crimped cables to MBT0008 on pins: 1, 2 (see image)
+
    <img src="./images/.png" width="350" height="auto">
 
 ### Step 5:
@@ -71,10 +75,10 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ### Step 6:
 
+
 ### Step 7:
 
 ### Step 8:
-
-### Step 9:
+- upload the code to the micro:bit [code here](./)
 
 
