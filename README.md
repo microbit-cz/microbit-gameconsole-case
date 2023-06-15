@@ -77,12 +77,20 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
    <img src="./images/.png" width="350" height="auto">
 
 ### Step 6:
-- Solder a 2-way cable 
+- Connect 2-way cable with vertical micro USB plug and micro USB connector using soldering
+- Be careful about + and - (see image if you are not sure)
 
+   <img src="./images/.png" width="350" height="auto">
+
+- Connect micro USB into MBT0008 and glue vertical micro USB plug into pre-made hole
+
+     <img src="./images/.png" width="350" height="auto">
+     
+- Close it with a lid
+
+     <img src="./images/.png" width="350" height="auto">
 
 ### Step 7:
-
-### Step 8:
 - upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
-
+- you can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
 
