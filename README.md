@@ -88,7 +88,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
      
 - Close it with a lid
 
-     <img src="./images/.png" width="350" height="auto">
+     <img src="./images/Header.jpg" width="350" height="auto">
 
 ### Step 7:
 - upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
