@@ -14,6 +14,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Player 1 pressed the "button" one or more times before the game started → then the display shows "B"	
 - Player 2 has pressed the "button" one or more times before the game starts → then the display shows "A"
 - Both players have pressed the "button" one or more times before the game starts → then the display shows "C" → Cheater
+[Code here]()
   
 ## Tips & Tricks
 
