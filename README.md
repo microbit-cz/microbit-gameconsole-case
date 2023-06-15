@@ -49,15 +49,25 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - place Microbit MBT0008 on these parts
   
    <img src="./images/LegoHoles.png" width="350" height="auto">
-   
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
 
 ### Step 4:
 - Connect IR sensor to 3-way crimped cable and put it through hole
-- Screw the M3 Bolt to hold IR sensor
-- 
+- Screw the M3 bolt to hold IR sensor into heat insert nut
+- Slide sensor lids into thin holes
+- Do it on both sides
+- Connect 3-way crimped cables to MBT0008 on pins: 1, 2 (see image)
+
+   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/.png" width="350" height="auto">
+   <img src="./images/.png" width="350" height="auto">
 
 ### Step 5:
+- put battery holder cable through hole
+- connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
+- place battery holder in storage place and close the lid
+
+   <img src="./images/.png" width="350" height="auto">
 
 ### Step 6:
 
@@ -67,16 +77,4 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ### Step 9:
 
-### Step 10:
 
-### Step 11:
-
-### Step 12:
-
-### Step 13:
-
-### Step 14:
-
-### Step 15:
-
- 
