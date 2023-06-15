@@ -22,7 +22,6 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - [Installing heat nuts](https://markforged.com/resources/blog/heat-set-inserts)
 - [Cable crimping](https://ratrig.dozuki.com/Guide/11.+Cable+Crimping/80)
 - [Soldering](https://www.makerspaces.com/how-to-solder/)
-- [Documentation](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## What do you need?
 
@@ -33,7 +32,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - 1 piece of [Vertical USB ](https://www.aliexpress.com/item/1005002650191316.html)
 - 2 pieces of [Bolts M3](https://www.bel-shop.eu/cylindric-head-screw-m3x8-10-pcs/)
 - x grams of filament ABS
-- 
+- 1× 2-way cable
+- 2× 3-way crimped cables 
 
 ## Embedding parts
 ### Step 1:
