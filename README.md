@@ -22,7 +22,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - [Installing heat nuts](https://markforged.com/resources/blog/heat-set-inserts)
 - [Cable crimping](https://ratrig.dozuki.com/Guide/11.+Cable+Crimping/80)
 - [Soldering](https://www.makerspaces.com/how-to-solder/)
--
+- [Documentation](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## What do you need?
 
