@@ -25,7 +25,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ## What do you need?
 
-- Microbit extension [MBT0008](https://www.dfrobot.com/product-1867.html)
+- Micro:bit extension [MBT0008](https://www.dfrobot.com/product-1867.html)
 - 2 pieces of [Insert Nut M3](https://www.aliexpress.com/item/1005004701945081.html)
 - 2 pieces of [IR sensor](https://www.aliexpress.com/item/1297063929.html)
 - 1 piece of [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
