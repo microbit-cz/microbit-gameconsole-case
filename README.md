@@ -86,7 +86,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
      <img src="./images/.png" width="350" height="auto">
      
-- Close it with a lid
+- Close both storage places with lids
 
      <img src="./images/Header.jpg" width="350" height="auto">
 
