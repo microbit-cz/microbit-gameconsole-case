@@ -42,7 +42,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 ### Step 2:
 - insert heat nuts on each side
 
-  [tips & tricks]([tips&tricks](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/README.md#tips--tricks))
+  [tips & tricks](tips&tricks](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/README.md#tips--tricks)
 ### Step 3:
 - insert lego parts to holes
 - place Microbit MBT0008 on these parts
