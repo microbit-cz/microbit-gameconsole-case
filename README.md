@@ -38,7 +38,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ## Embedding parts
 ### Step 1:
-- download and print [parts]() or [parts as STL]() using a 3d printer
+- download and print [parts](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts) or [parts as STL](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts/STL) using a 3d printer
 ### Step 2:
 - insert heat nuts on each side
 ### Step 3:
