@@ -1,6 +1,6 @@
 <p align="center">
    
-   # MicroBit "Reaction game" cover for MBT0008
+# MicroBit "Reaction game" cover for MBT0008
 
 </p>
 <p align="center">
