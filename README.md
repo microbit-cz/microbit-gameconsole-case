@@ -15,7 +15,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Player 2 has pressed the "button" one or more times before the game starts → then the display shows "A"
 - Both players have pressed the "button" one or more times before the game starts → then the display shows "C" → Cheater
   
-[Code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
+  [Code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
   
 ## Tips & Tricks
 
