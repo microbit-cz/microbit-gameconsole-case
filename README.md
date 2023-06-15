@@ -94,5 +94,5 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - You can use [Micro:bit MakeCode](https://makecode.microbit.org/) to download it into micro:bit easily
 
 ## Author
-@Lukypop
+[@Lukypop](https://github.com/Lukypop)
 
