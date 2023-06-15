@@ -41,6 +41,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - download and print [parts](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts) or [parts as STL](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/tree/main/parts/STL) using a 3d printer
 ### Step 2:
 - insert heat nuts on each side
+
   [tips & tricks]([tips&tricks](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/README.md#tips--tricks))
 ### Step 3:
 - insert lego parts to holes
