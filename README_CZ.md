@@ -1,4 +1,4 @@
- # Micro:bit pouzdro na "Postřehovou hru" pro Micro:bit V2 IO Expansion Board
+ # Pouzdro na "Postřehovou hru" pro Micro:bit V2 IO Expansion Board
 
 <p align="center">
    <img src="./images/Header.jpg" width="600" height="auto">
