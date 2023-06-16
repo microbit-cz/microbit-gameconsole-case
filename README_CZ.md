@@ -1,4 +1,4 @@
- # Micro:bit pouzdro na "Postřehovou hru" pro MBT0008
+ # Micro:bit pouzdro na "Postřehovou hru" pro Micro:bit V2 IO Expansion Board
 
 <p align="center">
    <img src="./images/Header.jpg" width="600" height="auto">
@@ -23,7 +23,7 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 - [Pájení](https://www.makerspaces.com/how-to-solder/)
 
 ## Co budeme potřebovat?
-- Micro:bit rozšíření [MBT0008](https://www.dfrobot.com/product-1867.html)
+- Micro:bit rozšíření [Micro:bit V2 IO Expansion Board](https://www.aliexpress.com/item/1005002353248507.html)
 - 2 kusy [Insert matice M3](https://www.aliexpress.com/item/1005004701945081.html)
 - 2 kusy [IR senzor](https://www.aliexpress.com/item/1297063929.html)
 - 1 kusy [Pouzdro na baterie AA](https://www.aliexpress.com/item/1005002927831106.html)
@@ -44,7 +44,7 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 
 ### Krok 3:
 - Vložte lego spojky do děr v hlavním dílu
-- Umístěte MBT0008 na tyto spojky
+- Umístěte Micro:bit V2 IO Expansion Board na tyto spojky
   
    <img src="./images/LegoHoles.png" width="350" height="auto">
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
@@ -61,14 +61,14 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 
    <img src="./images/IR_sensor_closed.png" width="350" height="auto">
   
-- Připojte krimpovaný 3-žilný kabel do MBT0008 na piny: 1, 2 (viz obrázek)
+- Připojte krimpovaný 3-žilný kabel do Micro:bit V2 IO Expansion Board na piny: 1, 2 (viz obrázek)
 
    <img src="./images/Extension_wired.png" width="350" height="auto">
    <img src="./images/IR_sensor_cables.png" width="350" height="auto">
 
 ### Krok 5:
 - Protáhněte kabel od pouzdra na baterie dírou v hlavním díle
-- Zapojte jej do MBT0008 (do [JST-PH plug](./images/JST_plug.jpg))
+- Zapojte jej do Micro:bit V2 IO Expansion Board (do [JST-PH plug](./images/JST_plug.jpg))
 - Vložte pouzdro na baterie do zadní části, ve které je na to připravemé místo 
 
    <img src="./images/Battery_cables.png" width="350" height="auto">
@@ -79,7 +79,7 @@ Pokud je hra zahájena, herní engine po stisku "tlačítka" zobrazí výsledek 
 
    <img src="./images/Power_cable.png" width="350" height="auto">
 
-- Připojte micro USB do MBT0008 a přilepte vertikální micro USB plug do před-dělané díry
+- Připojte micro USB do Micro:bit V2 IO Expansion Board a přilepte vertikální micro USB plug do před-dělané díry
 
      <img src="./images/Power_cable_plug.png" width="350" height="auto">
      
