@@ -1,4 +1,4 @@
- # Micro:bit "Reaction game" cover for MBT0008
+ # Micro:bit "Reaction game" cover for Micro:bit V2 IO Expansion Board
 
 <p align="center">
    <img src="./images/Header.jpg" width="600" height="auto">
@@ -25,7 +25,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ## What do you need?
 
-- Micro:bit extension [MBT0008](https://www.dfrobot.com/product-1867.html)
+- Micro:bit extension [Micro:bit V2 IO Expansion Board](https://www.aliexpress.com/item/1005002353248507.html)
 - 2 pieces of [Insert Nut M3](https://www.aliexpress.com/item/1005004701945081.html)
 - 2 pieces of [IR sensor](https://www.aliexpress.com/item/1297063929.html)
 - 1 piece of [Batery Holder AA](https://www.aliexpress.com/item/1005002927831106.html)
@@ -46,7 +46,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
 ### Step 3:
 - Insert lego parts into the holes
-- Place MBT0008 on these parts
+- Place Micro:bit V2 IO Expansion Board on these parts
   
    <img src="./images/LegoHoles.png" width="350" height="auto">
    <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
@@ -63,14 +63,14 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
    <img src="./images/IR_sensor_closed.png" width="350" height="auto">
   
-- Connect 3-way crimped cables to MBT0008 on pins: 1, 2 (see image)
+- Connect 3-way crimped cables to Micro:bit V2 IO Expansion Board on pins: 1, 2 (see image)
 
    <img src="./images/Extension_wired.png" width="350" height="auto">
    <img src="./images/IR_sensor_cables.png" width="350" height="auto">
 
 ### Step 5:
 - Put battery holder cable through hole
-- Connect it into MBT0008 (into [JST-PH plug](./images/JST_plug.jpg))
+- Connect it into Micro:bit V2 IO Expansion Board (into [JST-PH plug](./images/JST_plug.jpg))
 - Place battery holder in storage place
 
    <img src="./images/Battery_cables.png" width="350" height="auto">
@@ -81,7 +81,7 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 
    <img src="./images/Power_cable.png" width="350" height="auto">
 
-- Connect micro USB into MBT0008 and glue vertical micro USB plug into pre-made hole
+- Connect micro USB into Micro:bit V2 IO Expansion Board and glue vertical micro USB plug into pre-made hole
 
      <img src="./images/Power_cable_plug.png" width="350" height="auto">
      
