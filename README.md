@@ -48,8 +48,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Insert lego parts into the holes
 - Place Micro:bit V2 IO Expansion Board on these parts
   
-   <img src="./images/LegoHoles.png" width="350" height="auto">
-   <img src="./images/LegoHolesMicrobit.png" width="350" height="auto">
+   <img src="./images/LegoHoles.png" width="350" height="auto"> 
+   <img src="./images/LegoHolesMicrobit.png" width="350" height="auto"> 
 
 ### Step 4:
 - Connect IR sensor to 3-way crimped cable and put it through hole
@@ -65,8 +65,8 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
   
 - Connect 3-way crimped cables to Micro:bit V2 IO Expansion Board on pins: 1, 2 (see image)
 
-   <img src="./images/Extension_wired.png" width="350" height="auto">
-   <img src="./images/IR_sensor_cables.png" width="350" height="auto">
+   <img src="./images/Extension_wired.png" width="350" height="auto"> 
+   <img src="./images/IR_sensor_cables.png" width="350" height="auto"> 
 
 ### Step 5:
 - Put battery holder cable through hole
@@ -79,15 +79,15 @@ A game for two players. The game engine displays an "icon" on the LEDs after a r
 - Connect 2-way cable with vertical micro USB plug and micro USB connector using soldering
 - Be careful about + and - ([see image](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/images/micro_usb_wiring.png) if you are not sure)
 
-   <img src="./images/Power_cable.png" width="350" height="auto">
+   <img src="./images/Power_cable.png" width="350" height="auto"> 
 
 - Connect micro USB into Micro:bit V2 IO Expansion Board and glue vertical micro USB plug into pre-made hole
 
-     <img src="./images/Power_cable_plug.png" width="350" height="auto">
-     
+     <img src="./images/Power_cable_plug.png" width="350" height="auto"> 
+      
 - Close both storage places with lids
 
-     <img src="./images/Everything_closed.png" width="350" height="auto">
+     <img src="./images/Everything_closed.png" width="350" height="auto"> 
      
 ### Step 7:
 - Upload the code to the micro:bit [code here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/microbit-pxt-reaction-game.hex) or [as .txt here](https://github.com/pslib-cz/2022-p2a-mme-pppp-Lukypop/blob/main/pxt-reaction-game-as-txt.txt)
