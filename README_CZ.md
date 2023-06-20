@@ -1,7 +1,7 @@
  # Pouzdro na "Postřehovou hru" pro Micro:bit V2 IO Expansion Board
 
 <p align="center">
-   <img src="./images/Header.jpg" width="600" height="auto">
+   <img src="./images/Header.png" width="600" height="auto">
 </p>
 
 ## Postřehová hra
