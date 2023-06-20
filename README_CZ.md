@@ -1,4 +1,6 @@
  # Pouzdro na "Postřehovou hru" pro Micro:bit V2 IO Expansion Board
+ 
+[<img src="./images/cze_flag.jpg" width="22">](./README_CZ.md) [<img src="./images/eng_flag.png" width="22">](./README.md)
 
 <p align="center">
    <img src="./images/Header.png" width="600" height="auto">
